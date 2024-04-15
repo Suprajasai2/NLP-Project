@@ -1,6 +1,6 @@
 # NLP-Project
     Sentiment Analysis on TripAdvisor Reviews 
-**Introduction: **
+**Introduction:**
 In the realm of travel, hotels play a pivotal role, and with the abundance of information available, new avenues for selecting the best accommodations have emerged. Reviews, often considered the bedrock for evaluating product quality, serve as a crucial determinant in the decision-making process. While platforms like Amazon and YouTube employ scaled rating systems, Tripadvisor takes a nuanced approach. In this project, we aim to perform sentiment analysis on Tripadvisor hotel reviews for the city of New Delhi. This analysis seeks to provide valuable insights to both consumers and business owners, offering a nuanced understanding of the sentiments expressed in the reviews.
 
 **Project Context:**
